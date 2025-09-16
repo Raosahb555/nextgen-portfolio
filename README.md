@@ -21,3 +21,4 @@ It comes with a **Professional Sample Page**, so you can see how your projects a
 3. Create a new page and choose **Professional Sample Page** template  
 4. Add your own images in `assets/images/`  
 5. Publish and enjoy your portfolio! 🎉
+
